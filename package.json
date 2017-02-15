@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ronkeadun/homeSession1-Day3/issues"
   },
-  "homepage": "https://github.com/ronkeadun/homeSession1-Day3#readme"
+  "homepage": "https://github.com/ronkeadun/homeSession1-Day3#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
 }
